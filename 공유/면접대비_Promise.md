@@ -26,3 +26,8 @@
 - 네트워크 응답 처리 시
 - 파일을 읽고 쓰는 등의 파일 시스템 작업 시
 - 의도적으로 시간 지연을 사용할 때
+
+## 참고
+
+[자바스크립트 Promise 쉽게 이해하기](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
+[[Javascript] 비동기, Promise, async, await 확실하게 이해하기](https://springfall.cc/article/2022-11/easy-promise-async-await)
